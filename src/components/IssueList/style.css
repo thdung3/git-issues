@@ -1,0 +1,21 @@
+/* .issue-list {
+    text-align: left;
+} */
+.issue-title{
+    cursor: pointer;
+}
+.issue-comment{
+    cursor: pointer;
+    padding:0;
+}
+
+.issue-title, .issue-status {
+    text-align: left;
+}
+.issue-icon-area, .issue-title-area{
+    padding: 0;
+}
+.issue-icon-area {
+    color: green;
+}
+

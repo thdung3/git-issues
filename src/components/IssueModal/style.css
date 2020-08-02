@@ -1,0 +1,9 @@
+.modal-avatar {
+    border-radius: 50%;
+    width: 45px;
+    padding: 0;
+}
+
+.modal-table-header{
+    background-color: #f6f8fa;
+}
